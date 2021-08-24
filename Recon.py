@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 
 ################################################################
-## [Name]: Recon.py -- a recon/enumeration script
-##--------------------------------------------------------------
-## [Details]:
 ## This script is intended to be executed remotely against a
 ## list of IPs to perform a detailed nmap scan.
 ################################################################
